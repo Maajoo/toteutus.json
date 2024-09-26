@@ -1,12 +1,12 @@
 {
+    "digikuva": "https://maajoo.github.io/toteutus.json/digitekniikat.jpg",
     "toteutus": {
         "nimi": "Digitekniikat",
         "tunnus": "DIG007AS2A-3012",
         "opintopisteet": 5,
         "alkaa": "19.08.2024",
         "loppuu": "11.10.2024",
-        "kesto_vko": 8,
-        "kuva": "https://maajoo.github.io/toteutus.json/digitekniikat.jpg"
+        "kesto_vko": 8
     },
     "osallistujat": {
         "lukumaara": 25,
